@@ -1,0 +1,6 @@
+fullname,eid,email Student,phone Student,"email Pedagogical Responsible","phone Pedagogical Responsible","email Financial Responsible","phone Financial Responsible",group,group,invisible,see_all
+John Appleseed,104,john.appleseed@exemplo.com :(,kkkkkkk,dad.appleseed@exemplo.com,(11) 99991-1234,mom.appleseed@exemplo.com,(11) 99992-1234,Sala 1 / Sala 2,Sala 3,1,no
+John Appleseed,104,john.appleseed1@exemplo.com,(11) 99990-1235,dad.appleseed1@exemplo.com/dad.appleseed2@exemplo.com,(11) 99991-1235,,,"Sala 2,Sala 5", Sala 6,1,no
+Mary Knight,105,mary.knight@exemplo.com,12 99990-1235,dad.knight@exemplo.com,,mom.knight@exemplo.com,,Sala 4,"Sala 5, Sala 6",no,
+Jack Littleton,106,jack.littleton@exemplo.com,(13) 99990,,(13) 99991-1236,mom.littleton@exemplo.com,(13) 999921236,Sala 1,,,0
+Kate Goldman,107,kate.goldman@exemplo.com,14999901237,dad.goldman@exemplo.com,,mom.goldman@exemplo.com,(14) 99992-1237,Sala 6,Sala 7,,yes

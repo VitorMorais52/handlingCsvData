@@ -1,0 +1,13 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "VitorMorais52",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "email-validator": "^2.0.4",
+    "google-libphonenumber": "^3.2.26"
+  }
+}
