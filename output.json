@@ -1,0 +1,141 @@
+[
+  {
+    "addresses": [
+      {
+        "type": "email",
+        "tags": ["Student"],
+        "address": "john.appleseed1@exemplo.com"
+      },
+      { "type": "phone", "tags": ["Student"], "address": "5511999901235" },
+      {
+        "type": "email",
+        "tags": ["Pedagogical", "Responsible"],
+        "address": "dad.appleseed1@exemplo.com"
+      },
+      {
+        "type": "email",
+        "tags": ["Pedagogical", "Responsible"],
+        "address": "dad.appleseed2@exemplo.com"
+      },
+      {
+        "type": "phone",
+        "tags": ["Pedagogical", "Responsible"],
+        "address": "5511999911235"
+      },
+      {
+        "type": "email",
+        "tags": ["Student"],
+        "address": "john.appleseed@exemplo.com"
+      },
+      {
+        "type": "email",
+        "tags": ["Pedagogical", "Responsible"],
+        "address": "dad.appleseed@exemplo.com"
+      },
+      {
+        "type": "phone",
+        "tags": ["Pedagogical", "Responsible"],
+        "address": "5511999911234"
+      },
+      {
+        "type": "email",
+        "tags": ["Financial", "Responsible"],
+        "address": "mom.appleseed@exemplo.com"
+      },
+      {
+        "type": "phone",
+        "tags": ["Financial", "Responsible"],
+        "address": "5511999921234"
+      }
+    ],
+    "fullname": "John Appleseed",
+    "eid": "104",
+    "invisible": true,
+    "see_all": false,
+    "group": ["Sala 2", "Sala 5", "Sala 6", "Sala 1", "Sala 3"]
+  },
+  {
+    "addresses": [
+      {
+        "type": "email",
+        "tags": ["Student"],
+        "address": "mary.knight@exemplo.com"
+      },
+      { "type": "phone", "tags": ["Student"], "address": "5512999901235" },
+      {
+        "type": "email",
+        "tags": ["Pedagogical", "Responsible"],
+        "address": "dad.knight@exemplo.com"
+      },
+      {
+        "type": "email",
+        "tags": ["Financial", "Responsible"],
+        "address": "mom.knight@exemplo.com"
+      }
+    ],
+    "fullname": "Mary Knight",
+    "eid": "105",
+    "invisible": false,
+    "see_all": false,
+    "group": ["Sala 4", "Sala 5", "Sala 6"]
+  },
+  {
+    "addresses": [
+      {
+        "type": "email",
+        "tags": ["Student"],
+        "address": "jack.littleton@exemplo.com"
+      },
+      {
+        "type": "phone",
+        "tags": ["Pedagogical", "Responsible"],
+        "address": "5513999911236"
+      },
+      {
+        "type": "email",
+        "tags": ["Financial", "Responsible"],
+        "address": "mom.littleton@exemplo.com"
+      },
+      {
+        "type": "phone",
+        "tags": ["Financial", "Responsible"],
+        "address": "5513999921236"
+      }
+    ],
+    "fullname": "Jack Littleton",
+    "eid": "106",
+    "invisible": false,
+    "see_all": false,
+    "group": ["Sala 1"]
+  },
+  {
+    "addresses": [
+      {
+        "type": "email",
+        "tags": ["Student"],
+        "address": "kate.goldman@exemplo.com"
+      },
+      { "type": "phone", "tags": ["Student"], "address": "5514999901237" },
+      {
+        "type": "email",
+        "tags": ["Pedagogical", "Responsible"],
+        "address": "dad.goldman@exemplo.com"
+      },
+      {
+        "type": "email",
+        "tags": ["Financial", "Responsible"],
+        "address": "mom.goldman@exemplo.com"
+      },
+      {
+        "type": "phone",
+        "tags": ["Financial", "Responsible"],
+        "address": "5514999921237"
+      }
+    ],
+    "fullname": "Kate Goldman",
+    "eid": "107",
+    "invisible": false,
+    "see_all": true,
+    "group": ["Sala 6", "Sala 7"]
+  }
+]
